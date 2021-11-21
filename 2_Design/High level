@@ -21,3 +21,5 @@ After inputting these data, the program asks user to input ‘e’ to edit the d
 If the user inputs ‘2’ in the main menu, the program asks for the name of file. If the file is found, it is displayed. Otherwise, error message is printed on the screen.
 The third option in main menu is exit. If ‘3’ is entered in the main menu, the Cricket Score Sheet project terminates.
 
+
+
