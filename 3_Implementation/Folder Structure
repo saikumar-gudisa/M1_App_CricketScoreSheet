@@ -123,7 +123,6 @@ void scoringProcess()
             system("cls");
             printf("\n\n\tFINAL SCORESHEET");
             scoreSheet();
-            getch();
         }
 
         if(ball==0)
@@ -250,7 +249,6 @@ void scoringProcess()
                     system("cls");
                     printf("\n\n\tFINAL SCORESHEET");
                     scoreSheet();
-                    getch();
                     break;
                 }
                 bat[bm1].isBatting=false;
